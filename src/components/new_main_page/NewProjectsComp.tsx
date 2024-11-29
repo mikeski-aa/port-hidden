@@ -12,11 +12,7 @@ function NewProjectComp() {
         ))}
       </div>
       <div className="moreProjectsBtn">
-        <a
-          href="https://github.com/mikeski-aa"
-          target="_blank"
-          className="ghubLink"
-        >
+        <a href="https://github.com/" target="_blank" className="ghubLink">
           More projects
         </a>
       </div>

@@ -48,9 +48,11 @@ function EmailModal() {
           <div className="emailText">
             <span
               className="emailLargeText"
-              onClick={() => window.open("mailto:dev.m.nowak@gmail.com")}
+              onClick={() =>
+                window.open("mailto:fakeEmailPlaceholder@gmail.com")
+              }
             >
-              dev.m.nowak@gmail.com
+              fakeEmailPlaceholder@gmail.com
             </span>
           </div>
         </div>

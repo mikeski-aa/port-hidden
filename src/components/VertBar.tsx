@@ -23,14 +23,11 @@ function VertBar() {
   };
 
   const handleGithubClick = () => {
-    window.open("https://github.com/mikeski-aa", "__blank");
+    window.open("https://github.com/", "__blank");
   };
 
   const handleLinkedInClick = () => {
-    window.open(
-      "https://www.linkedin.com/in/michal-nowak-a40681185",
-      "__blank"
-    );
+    window.open("https://www.linkedin.com/", "__blank");
   };
 
   const handleEmailClick = () => {

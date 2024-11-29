@@ -13,9 +13,9 @@ function NewAboutComp() {
         ></img>
       </div>
       <div className="newAbout content div">
-        <div className="newAboutHeading">Michal Nowak&nbsp;</div>
+        <div className="newAboutHeading">Joe Bloggs&nbsp;</div>
         <div className="newAboutSubHeading">
-          Fullstack developer based in Berlin&nbsp;
+          Fullstack developer based in orbit&nbsp;
         </div>
         <div className="newAboutText">
           <Typewriter

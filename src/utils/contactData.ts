@@ -3,15 +3,15 @@ import { IContactInterface } from "../interfaces";
 const contact: IContactInterface[] = [
   {
     name: "Email",
-    link: "dev.m.nowak@gmail.com",
+    link: "fakeEmailPlaceholder@gmail.com",
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/michal-nowak-a40681185/",
+    link: "https://www.linkedin.com/",
   },
   {
     name: "GitHub",
-    link: "https://github.com/mikeski-aa",
+    link: "https://github.com/",
   },
 ];
 

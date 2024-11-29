@@ -27,9 +27,9 @@ function NewMainPageDesign() {
           ></img>
         </div>
         <div className="newAbout content div">
-          <div className="newAboutHeading">Michal Nowak&nbsp;</div>
+          <div className="newAboutHeading">Joe Bloggs &nbsp;</div>
           <div className="newAboutSubHeading">
-            Fullstack developer based in Berlin&nbsp;
+            Fullstack developer based in orbit&nbsp;
           </div>
           <div className="newAboutText">
             <Typewriter
@@ -60,11 +60,7 @@ function NewMainPageDesign() {
           ))}
         </div>
         <div className="moreProjectsBtn">
-          <a
-            href="https://github.com/mikeski-aa"
-            target="_blank"
-            className="ghubLink"
-          >
+          <a href="https://github.com/" target="_blank" className="ghubLink">
             More projects
           </a>
         </div>
